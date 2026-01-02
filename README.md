@@ -1,4 +1,20 @@
-# helloimdome
+# 👋 Hello, I'm Dome
 
-Currently working as a web developer but I'm interested in all kinds of code. 😄  
-Always looking for an opportunity. 👀
+## 🚀 About Me
+I'm **Dome**, a passionate developer who loves building all kinds of applications.    
+I enjoy learning new technologies, experimenting with ideas, and turning concepts into reality.
+
+📍 Based in **Mecklenburg-Vorpommern, Germany**
+
+## 💻 What I Do
+- 🌐 Web Development (front-end & back-end)
+- 🎮 Game Development
+- 📱 App Development
+
+## 🛠️ Tech & Tools
+- **Web** Nuxt, Vue
+- **App** Swift, Flutter
+- **Game** Godot, Unity  
+
+## 🤝 Let's Connect
+Feel free to explore my repositories, open issues, or reach out if you’d like to collaborate on a project!
