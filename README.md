@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dome
 
 ## 🚀 About Me
-I'm **Dome**, a passionate developer who loves building all kinds of applications.    
+A passionate developer who loves building all kinds of applications.    
 I enjoy learning new technologies, experimenting with ideas, and turning concepts into reality.
 
 📍 Based in **Mecklenburg-Vorpommern, Germany**
