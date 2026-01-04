@@ -8,8 +8,8 @@ I enjoy learning new technologies, experimenting with ideas, and turning concept
 
 ## 💻 What I Do
 - 🌐 Web Development (front-end & back-end)
-- 🎮 Game Development
 - 📱 App Development
+- 🎮 Game Development
 
 ## 🛠️ Tech & Tools
 - **Web** Nuxt, Vue
